@@ -1,0 +1,4 @@
+SOURCE: Hacker News
+HOOK: This tech story is getting massive attention.
+INSIGHT: Project Patchouli: Open-source electromagnetic drawing tablet hardware
+CTA: Follow for daily tech trends.

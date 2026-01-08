@@ -1,0 +1,4 @@
+SOURCE: GitHub
+HOOK: This open-source project is trending fast.
+INSIGHT: claude-hud gained 1725 stars. A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+CTA: Follow for daily tech trends.

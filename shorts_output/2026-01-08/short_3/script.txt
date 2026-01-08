@@ -1,0 +1,4 @@
+SOURCE: GitHub
+HOOK: This open-source project is trending fast.
+INSIGHT: obsidian-skills gained 1554 stars. Claude Skills for Obsidian
+CTA: Follow for daily tech trends.

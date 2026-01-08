@@ -1,0 +1,4 @@
+SOURCE: GitHub
+HOOK: This open-source project is trending fast.
+INSIGHT: planning-with-files gained 5148 stars. Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+CTA: Follow for daily tech trends.
